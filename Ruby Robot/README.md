@@ -35,7 +35,7 @@ Caso de Teste 02: Pesquisar produto não existente
  ### Telas
  
 Tela Inicial                               | Tela Item Existente |Tela Item Inexistente |
-  :----------------------------------------:|:--------------
+  :----------------------------------------:| :-----------------:| :-------------------:|
   ![](Screens/PaginaInicial.PNG)  |![](Screens/PesquisaItemExist.PNG)  |![](Screens/ItemInexist.PNG)  |
 
 
