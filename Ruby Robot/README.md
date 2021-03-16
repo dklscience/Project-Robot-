@@ -36,6 +36,6 @@ Caso de Teste 02: Pesquisar produto não existente
  
 Tela Inicial                               | Tela Item Existente |Tela Item Inexistente |
   :----------------------------------------:|:--------------
-  ![](Project-Robot-/Ruby Robot/Screens/PaginaInicial.PNG)  |![](Project-Robot-/Ruby Robot/Screens/PesquisaItemExist.PNG)  |![](Project-Robot-/Ruby Robot/Screens/ItemInexist.PNG)  |
+  ![](Screens/PaginaInicial.PNG)  |![](Project-Robot-/Ruby Robot/Screens/PesquisaItemExist.PNG)  |![](Project-Robot-/Ruby Robot/Screens/ItemInexist.PNG)  |
 
 
